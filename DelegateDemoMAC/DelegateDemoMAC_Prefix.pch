@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'DelegateDemoMAC' target in the 'DelegateDemoMAC' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
