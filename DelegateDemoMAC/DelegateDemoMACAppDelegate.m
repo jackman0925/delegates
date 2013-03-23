@@ -7,7 +7,7 @@
 //
 
 #import "DelegateDemoMACAppDelegate.h"
-#import "DlgSimple.h";
+#import "DlgSimple.h"
 
 @implementation DelegateDemoMACAppDelegate
 

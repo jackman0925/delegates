@@ -9,7 +9,7 @@
 #import <Cocoa/Cocoa.h>
 
 @interface DlgSimple : NSObject {
-
+    id delegate;
 }
 
 
